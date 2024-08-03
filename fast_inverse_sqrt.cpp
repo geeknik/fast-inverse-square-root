@@ -1,3 +1,4 @@
+#include "fast_inverse_sqrt.hpp"
 #include <cstdint>
 #include <cmath>
 #include <limits>
